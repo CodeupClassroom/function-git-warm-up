@@ -10,3 +10,8 @@
   You should console log to test your input.
 
 */
+function retutnName(input) {
+    return input
+
+}
+console.log(retutnName("Abdelmoula"))
