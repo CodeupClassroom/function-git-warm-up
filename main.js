@@ -12,7 +12,6 @@
 */
 
 function returnName(name) {
-    name = "Justin";
     return name;
 }
-    console.log(returnName());
+    console.log(returnName("Justin"));
