@@ -10,3 +10,8 @@
   You should console log to test your input.
 
 */
+var input = "Mark";
+function returnName(input) {
+    return input;
+}
+console.log(returnName(input));
