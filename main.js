@@ -9,4 +9,7 @@
 
   You should console log to test your input.
 
-*/
+*/function returnName(outPut) {
+    return outPut;
+}
+console.log(returnName("Stuart"));
