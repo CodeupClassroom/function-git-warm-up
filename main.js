@@ -10,3 +10,9 @@
   You should console log to test your input.
 
 */
+
+function returnName(name){
+    return name;
+}
+
+console.log(returnName("Kyla"));
