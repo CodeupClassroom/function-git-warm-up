@@ -8,5 +8,11 @@
   INPUT: returnName("Justin")  OUTPUT: "Justin"
 
   You should console log to test your input.
+  */
 
-*/
+function returnName(input) {
+    return input;
+}
+
+// console.log(returnName('Justin'));
+console.log(returnName('Maria'));
